@@ -1,0 +1,9 @@
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\Entities\obj\Debug\netstandard2.0\Entities.pdb

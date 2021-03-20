@@ -1,0 +1,12 @@
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\TheaterBusinessLogic.deps.json
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\TheaterBusinessLogic.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\TheaterBusinessLogic.pdb
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.csprojAssemblyReference.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.AssemblyInfo.cs
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.csproj.CopyComplete
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.pdb
