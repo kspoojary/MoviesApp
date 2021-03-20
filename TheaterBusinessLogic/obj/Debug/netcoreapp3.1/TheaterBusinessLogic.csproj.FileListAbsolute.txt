@@ -10,3 +10,5 @@ C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debu
 C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.csproj.CopyComplete
 C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.dll
 C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\obj\Debug\netcoreapp3.1\TheaterBusinessLogic.pdb
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\TheaterDAL.dll
+C:\Users\Krishnaraj.Poojary\source\repos\MoviesApp\TheaterBusinessLogic\bin\Debug\netcoreapp3.1\TheaterDAL.pdb

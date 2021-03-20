@@ -15,9 +15,9 @@ namespace TheaterBusinessLogic
             this.theaterDataAccessor = theaterDataAccessor;
         }
 
-        public Task<IEnumerable<TheaterDTO>> FindMovieScreening(Guid MovieId, Guid LocationId)
+        public async Task<IEnumerable<TheaterDTO>> FindMovieScreening(Guid MovieId, Guid LocationId)
         {
-            throw new NotImplementedException();
+            return await theaterDataAccessor.FindMovieScreening(MovieId, LocationId);
         }
     }
 }
