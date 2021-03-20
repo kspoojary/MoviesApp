@@ -3,24 +3,12 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MoviesBL
+namespace TheaterDAL
 {
-    public class MoviesBL : IMoviesBL
+    public class TheaterDataAccessor : ITheaterDataAccessor
     {
-        //Inject database access class and logger claaa here
-        public MoviesBL()
+        public async Task<IEnumerable<TheaterDTO>> FindMovieScreening(Guid MovieId, Guid LocationId)
         {
-
-        }
-        public Task<Movie> AddMovieAsync(Movie movie)
-        {
-            throw new NotImplementedException();
-        }
-
-        public async Task<IEnumerable<TheaterDTO>> FindMovieScreening(Guid movieId, Guid areaId)
-        {
-            //Call theater service to get all the theater list where the given movies is screened for the given area
-            //TO Replace below code with actual service call
             return await Task.Run(() => {
                 IEnumerable<TheaterDTO> theaters =
                 new List<TheaterDTO>() {
@@ -31,7 +19,7 @@ namespace MoviesBL
                         AreaName="area1",
                         TheaterName="theater1",
                         ScreeningTime=DateTime.Now,
-                        Address="Address1"   
+                        Address="Address1"
                    },
                    new TheaterDTO()
                    {
@@ -45,16 +33,6 @@ namespace MoviesBL
                 };
                 return theaters;
             });
-        }
-
-        public Task<Movie> GetMovieAsync(Guid movieId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<IEnumerable<Movie>> GetMoviesAsync()
-        {
-            throw new NotImplementedException();
         }
     }
 }
